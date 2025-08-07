@@ -1,0 +1,4 @@
+- Custom fonts and colors
+- Responsive design using Flexbox/Grid
+- Hover effects and transitions
+- Clean and semantic HTML structure
